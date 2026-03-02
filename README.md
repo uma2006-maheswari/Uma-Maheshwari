@@ -1,6 +1,4 @@
-Here's the complete, detailed GitHub README code. Just copy and paste this entire block into your `README.md` file:
 
-```markdown
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
